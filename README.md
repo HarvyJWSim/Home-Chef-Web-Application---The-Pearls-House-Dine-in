@@ -1,6 +1,4 @@
 # Home Chef Web Application - The Pearls House Dine-in
-
-<br>
 <br>
 
 ## What is this about?
